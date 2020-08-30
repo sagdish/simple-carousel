@@ -95,5 +95,4 @@
 
   initCarousel();
 
-
 }(document))
